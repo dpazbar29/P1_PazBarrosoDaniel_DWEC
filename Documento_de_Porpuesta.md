@@ -1,1 +1,1 @@
-
+La aplicación a desarrollar será una web para gestionar las citas de un centro estético, con el objetivo de que los clientes puedan de manera autónoma agendar sus citas sin necesidad de ser atendidos de manera física o a través de una llamada por algun miembro del centro en cuestión, acelerando y facilitando de esta manera las gestiones de el centro en cuestión
