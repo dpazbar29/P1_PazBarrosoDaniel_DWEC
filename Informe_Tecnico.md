@@ -85,11 +85,11 @@ En el mercado actual, existen aplicaciones líderes como Booksy y Treatwell, que
 
 
 
-# ENLACES DE FUENTES
-JavaScript: https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript
-TypeScript: https://www.mytaskpanel.com/lenguaje-de-programacion-typescript/
+## Bibliografía
+- JavaScript: https://blog.hubspot.es/website/ventajas-y-desventajas-de-javascript
+- TypeScript: https://www.mytaskpanel.com/lenguaje-de-programacion-typescript/
 
 COMPATIBILIADAD:
-https://caniuse.com/
-https://v8.dev/
-https://webkit.org/
+- https://caniuse.com/
+- https://v8.dev/
+- https://webkit.org/
