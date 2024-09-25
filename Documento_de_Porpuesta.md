@@ -47,8 +47,8 @@ Así todos se benefician evitando largas esperas o llamdas telefónicas.
 **Stripe o Paypal**: Estas con soluciones seguras y ampliamente utilizadas
 
 
-# APARTADO RECURSOS (NO ESTA ORDENADO NI FINALIZADO)
+## Bibliografía
 
-React y TypeScript: https://vanessamarely.medium.com/qu%C3%A9-ventajas-tengo-al-usar-typescript-en-react-b5f1d6431bb0
-Node.js con Express: https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
-PostgreSQL: https://www.todopostgresql.com/ventajas-y-desventajas-de-postgresql/
+- React y TypeScript: https://vanessamarely.medium.com/qu%C3%A9-ventajas-tengo-al-usar-typescript-en-react-b5f1d6431bb0
+- Node.js con Express: https://developer.mozilla.org/es/docs/Learn/Server-side/Express_Nodejs/Introduction
+- PostgreSQL: https://www.todopostgresql.com/ventajas-y-desventajas-de-postgresql/
